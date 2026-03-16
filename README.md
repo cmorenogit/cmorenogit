@@ -73,13 +73,13 @@ I build AI systems that think, act, and scale — from multi-agent orchestration
 | [Agentes Hub](https://github.com/cmorenogit/agentes-hub) | Multi-agent system for automated PR code reviews with security-focused analysis | TypeScript · LangChain · Claude API |
 | [Prompt Hub](https://github.com/cmorenogit/prompt-hub) | Centralized prompt management with versioning and performance tracking | TypeScript · Next.js · PostgreSQL |
 | [Prism](https://github.com/cmorenogit/prism) | CLI tool that orchestrates structured debates between Claude, GPT, and Gemini | TypeScript · Shell · Multi-LLM |
-| [AI Playground](https://app-profile-morenodev.vercel.app/playground) | Browser-based AI demos (sentiment, summarization, image classification) — 100% private, runs on-device | Astro · React · Transformers.js |
+| [AI Playground](https://cesarmoreno.dev/playground) | Browser-based AI demos (sentiment, summarization, image classification) — 100% private, runs on-device | Astro · React · Transformers.js |
 
 ---
 
 ### Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=astro&logoColor=64ffda)](https://app-profile-morenodev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=astro&logoColor=64ffda)](https://cesarmoreno.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/morenodev)
 
 ---
